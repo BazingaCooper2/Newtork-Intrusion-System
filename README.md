@@ -1,4 +1,3 @@
-## Open Source & GSoC-Style Contributions
 
 This project explores **Network Intrusion Detection using Machine Learning** as part of my open-source learning and research journey.  
 It applies supervised and unsupervised ML models to detect malicious network traffic patterns and anomalies.
